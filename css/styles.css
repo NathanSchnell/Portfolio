@@ -3,7 +3,11 @@
 }
 .navbar {
     text-align: center;
+    background-color: #BC6C25;
 }
+.jumbotron {
+    background-color: #BC6C25;
+  }
 .logo {
     display: table-cell;
     height: 60px;
