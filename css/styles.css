@@ -4,14 +4,10 @@
 .navbar {
     text-align: center;
 }
-
-  .logo {
+.logo {
     display: table-cell;
     height: 60px;
     vertical-align: middle;
     width:60px;
     font-weight: bold;
-  }
-  .logoBackground {
-    background-image: url(https://fffuel.co/nnneon/);
   }
