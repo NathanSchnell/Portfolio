@@ -1,17 +1,29 @@
 .resumeButton {
-    color: black;
+  color: black;
 }
 .navbar {
-    text-align: center;
-    background-color: midnightblue;
+  text-align: center;
+  background-color:gray;
 }
 .jumbotron {
-    background-color: midnightblue;
-  }
+  background-color: gray;
+}
 .logo {
-    display: table-cell;
-    height: 60px;
-    vertical-align: middle;
-    width:60px;
-    font-weight: bold;
-  }
+  display: table-cell;
+  height: 60px;
+  vertical-align: middle;
+  width:60px;
+  font-weight: bold;
+}
+#home {
+  margin-top: 200px;
+}
+#about {
+  margin-top: 400px;
+}
+#work {
+  margin-top: 400px;
+}
+#contact {
+  margin-top: 400px;
+}
