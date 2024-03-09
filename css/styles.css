@@ -1,3 +1,6 @@
+* {
+  background-color: gray;
+}
 .resumeButton {
   color: black;
 }
@@ -23,4 +26,8 @@
 }
 #contact {
   margin-top: 400px;
+}
+.profilePic {
+  margin: auto;
+  border-radius: 20px;
 }
