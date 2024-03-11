@@ -3,6 +3,8 @@
 }
 .navbar {
   text-align: center;
+  background: url(https://t3.ftcdn.net/jpg/03/06/89/12/240_F_306891269_gTMWJhPW9XCywU0wMs1sDnpIGoxEaYZ6.jpg);
+  background-size: cover;
 }
 .logo {
   display: table-cell;
@@ -10,6 +12,7 @@
   vertical-align: middle;
   width:60px;
   font-weight: bold;
+  margin-left: 300px;
 }
 #home {
   margin-top: 200px;
