@@ -1,12 +1,8 @@
-* {
-  background-color: gray;
-}
 .resumeButton {
   color: black;
 }
 .navbar {
   text-align: center;
-  background-color:gray;
 }
 .logo {
   display: table-cell;
@@ -17,6 +13,7 @@
 }
 #home {
   margin-top: 200px;
+  
 }
 #about {
   margin-top: 400px;
@@ -26,14 +23,13 @@
 }
 #contact {
   margin-top: 400px;
+  margin-bottom: 400px;
 }
 .profilePic {
   margin: auto;
   border-radius: 20px;
 }
-body {
-  background-color: gray;
-}
+
 .logo {
   height: 100px;
   width: 100px;
