@@ -16,17 +16,18 @@
 }
 #home {
   margin-top: 200px;
-  
+  margin-bottom: 200px;
+  text-align: center;
 }
 #about {
-  margin-top: 400px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  text-align: center;
 }
 #work {
-  margin-top: 400px;
-}
-#contact {
-  margin-top: 400px;
-  margin-bottom: 400px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  text-align: center;
 }
 .profilePic {
   margin: auto;
@@ -49,4 +50,7 @@ body {
   background: url();
   background-size: cover;
   background-position: center;
+}
+#contact {
+  text-align: center;
 }
